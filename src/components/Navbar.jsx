@@ -8,7 +8,7 @@ const Navbar = () => {
     <header>
         <div className="container">
             <div className="logo-brand">
-                <NavLink to="/">logo</NavLink>
+                <NavLink to="/">Logo</NavLink>
             </div>
             <nav>
                 <ul>
